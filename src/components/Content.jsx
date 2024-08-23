@@ -34,7 +34,7 @@ export default function Content() {
     }
     return (
         <>
-            <div className="w-full h-[260vh] bg-gray-950 text-white">
+            <div className="w-full h-auto bg-gray-950 text-white">
                 <div className="flex justify-between px-[20px] pt-[20px]">
                     <div className="w-20% h-auto">
                         <h1>News Update</h1>
